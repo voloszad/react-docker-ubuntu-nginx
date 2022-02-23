@@ -5,3 +5,5 @@ Build:
 
 Run:
 `docker run -d -p 3003:80 react-docker`
+
+Containerized app availible on http://localhost:3003
